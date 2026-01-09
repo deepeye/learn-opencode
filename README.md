@@ -7,9 +7,9 @@
   
   <br>
   
-  [🌐 在线阅读](https://learnopencode.com) · 
-  [💬 加入社群](https://learnopencode.com/community) · 
-  [⭐ Star 支持](https://github.com/vbgate/learn-opencode)
+  <a href="https://learnopencode.com" target="_blank">🌐 在线阅读</a> · 
+  <a href="https://learnopencode.com/community" target="_blank">💬 加入社群</a> · 
+  <a href="https://github.com/vbgate/learn-opencode">⭐ Star 支持</a>
 
   <br>
 
@@ -118,7 +118,7 @@
 
 ### 在线阅读（推荐）
 
-👉 **[learnopencode.com](https://learnopencode.com)**
+👉 **<a href="https://learnopencode.com" target="_blank">learnopencode.com</a>**
 
 ### 本地运行
 
@@ -144,7 +144,7 @@ npm run dev
 
 实时答疑 · 第一时间更新 · 独家资源 · 同路人交流
 
-👉 [加入社群](https://learnopencode.com/community)
+👉 <a href="https://learnopencode.com/community" target="_blank">加入社群</a>
 
 </div>
 
@@ -161,7 +161,7 @@ npm run dev
 
 ## 📄 License
 
-本教程采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议。
+本教程采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。
 
 - ✅ 可自由分享、转载，需注明出处
 - ✅ 可修改、演绎，需以相同协议分享
@@ -173,7 +173,7 @@ npm run dev
 
 **如果这门课对你有帮助，请给个 ⭐ Star 支持一下！**
 
-[🌐 在线阅读](https://learnopencode.com) · 
-[💬 加入社群](https://learnopencode.com/community)
+  <a href="https://learnopencode.com" target="_blank">🌐 在线阅读</a> · 
+  <a href="https://learnopencode.com/community" target="_blank">💬 加入社群</a>
 
 </div>

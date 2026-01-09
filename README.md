@@ -1,6 +1,6 @@
 <div align="center">
   <img src="docs/public/images/github-banner.png" alt="OpenCode 中文实战课" width="100%">
-  
+
   <br><br>
   
   **零基础 · 4 小时学会用 AI 干实际工作**
